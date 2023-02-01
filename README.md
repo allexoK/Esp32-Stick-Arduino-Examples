@@ -1,7 +1,7 @@
 <!-- Short description -->
 # ESP32-Stick-ArduinoIde-Example
 ## Short description
-This contains example for Esp32-Stick development boards(POE-A,POE-P,ETH). It blinks a led, when you connect ethernet cable it will start pinging google.com (Check serial port output).
+This contains example for Esp32-Stick development boards(POE-P,ETH). It blinks a led, when you connect ethernet cable it will start pinging google.com (Check serial port output).
 
 ## Flashing 
 0. Connect the board to PC
